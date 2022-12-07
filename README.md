@@ -41,7 +41,7 @@ Users should be able to:
 
 ## My process
 
-I began working on this solution by placing the given information into the fitting elements. I then began working on styling the feedback form and then the thank you screen. Then I created the JavaScript which runs the component, storing the selected value and changing the shown state. Finally I added animations to the page.
+I began working on this solution by placing the given information into the fitting elements. I then began working on styling the feedback form and then the thank you screen. Then I created the JavaScript which runs the component, storing the selected value and changing the shown state. I then added a warning to the user if no rating is clicked. Finally I added animations to the page.
 
 ### Built with
 
