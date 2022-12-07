@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Front End Mentor Feedback Card - GitHub](https://github.com/maybMedia/FrontEndMentorFeedbackCard)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [FrontEndMentor Feedback Card - GitHub Pages]([https://your-live-site-url.com](https://maybmedia.github.io/FrontEndMentorFeedbackCard/))
 
 ## My process
 
