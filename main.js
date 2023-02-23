@@ -5,7 +5,6 @@ const warning = document.getElementById('warning');
 const form = document.querySelector('.feedback-container');
 const ty = document.querySelector('.thank-you-container');
 const formElement = document.querySelector('.feedback-form');
-const tyElement = document.querySelector('.thank-you');
 
 rateBtns.addEventListener('click', e => {
     // Detects which button was clicked
@@ -17,7 +16,7 @@ rateBtns.addEventListener('click', e => {
 
     // Removes the selected tag from any previously selected button
     const alreadySelected = rateBtns.querySelector('.selected');
-    if(alreadySelected){alreadySelected.classList.remove('selected');};
+    if(alreadySelected){alreadySelected.classList.remove('selected');}
 
     // Adds selected tag to the selected button
     targetValue.classList.add('selected');
