@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Front End Mentor Feedback Card - GitHub](https://github.com/maybMedia/FrontEndMentorFeedbackCard)
-- Live Site URL: [FrontEndMentor Feedback Card - GitHub Pages]([https://your-live-site-url.com](https://maybmedia.github.io/FrontEndMentorFeedbackCard/))
+- Live Site URL: [FrontEndMentor Feedback Card - GitHub Pages](https://github.com/maybMedia/FrontEndMentorFeedbackCard/deployments/activity_log?environment=github-pages)
 
 ## My process
 
